@@ -1,4 +1,4 @@
-# Snake_Game
+# Reptile_Rush
 
 This is a classic Snake Game built using **Python** and **Pygame**. The game utilizes object-oriented programming (OOP) principles to manage the snake, food, and game mechanics. The project enhances the traditional Snake Game by incorporating custom graphics for the snake head and food, as well as sound effects to create an interactive experience.
 
